@@ -1,0 +1,21 @@
+{
+	"gene_id": "",
+	"version": "1.0.0",
+	"part_type": "",
+	"tags": [],
+	
+	"original_sequence": "",
+	"optimized_sequence": "",
+	"synthesized_sequence": "",
+	"status": "",
+
+	"author": [
+		{
+			"name": "",
+			"email": "",
+			"affiliation": "",
+			"orcid": ""
+		}
+	],
+	"genbank": ""
+}
