@@ -13,3 +13,4 @@ Collections contain genes in a category, primarily organized for DNA synthesis p
 While collections right now are organized in a directory filesystem in a git, hopefully in the future this will be moved to a webapp for simplicity of use. 
 
 
+### TODO: Add name and description to all parts
